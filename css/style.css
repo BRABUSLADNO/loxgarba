@@ -1,0 +1,319 @@
+@font-face {
+    font-family: 'Lustria';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/lustria-v13-latin-regular.woff2') format('woff2'), яя
+         url('../fonts/lustria-v13-latin-regular.woff') format('woff'); 
+  }
+  
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+         url('../fonts/inter-v12-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+         url('../fonts/inter-v12-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+  }
+  h1{
+    position: absolute;
+width: 121px;
+height: 50px;
+left: 100px;
+top: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #64060B;
+
+text-shadow: 3px 2px 4px rgba(0, 0, 0, 0.25);
+  }
+  .img1{
+    
+
+
+
+position: absolute;
+width: 90px;
+height: 101px;
+left: 10px;
+top: 0px;
+
+background: url(pngwing);
+  }
+  h2{
+    position: absolute;
+width: 129px;
+height: 31px;
+left: 349px;
+top: 39px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+  }
+  h3{
+    position: absolute;
+width: 107px;
+height: 22px;
+left: 492px;
+top: 37px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h4{
+   position: absolute;
+width: 111px;
+height: 18px;
+left: 599px;
+top: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h5{
+    position: absolute;
+width: 171px;
+height: 23px;
+left: 755px;
+top: 23px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+  }
+  h6{
+    position: absolute;
+width: 193px;
+height: 25px;
+left: 936px;
+top: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #000000
+  }
+  .img2{
+    position: absolute;
+width: 43px;
+height: 45px;
+left: 1296px;
+top: 39px;
+
+background: url(pngwing);
+  }
+  h7{
+    position: absolute;
+width: 58px;
+height: 33px;
+left: 1351px;
+top: 57px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+  }
+  h8{
+   position: absolute;
+width: 753.62px;
+height: 423.78px;
+left: 147px;
+top: 244.78px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 100px;
+color: #64060B;
+}
+  .img3{
+    position: absolute;
+width: 407px;
+height: 407px;
+left: 911px;
+top: 262px;
+
+background: url(-IQo0D4FCGbLDYYgxzC3XFzd3XUyZQlxxyZkzvWjuMBFWgl37aBPPsoHEB9HsnGfe_qgIle0yPwL6tyBOI8DP00y.jpg);
+backdrop-filter: blur(2px);
+
+background: url(f39f3b7fabf1d16d37eb299ec2f4af84-1100x825.png);
+border-radius: 28px;
+  }
+  h9{
+   position: absolute;
+width: 344px;
+height: 34px;
+left: 539px;
+top: 727px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 41px;
+
+color: #64060B;
+  }
+  .img4{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 245px;
+top: 807px;
+
+background: url(hachapuri-1.jpg);
+border-radius: 28px;
+  }
+  h10{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 278px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+  }
+  .img5{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 474px;
+top: 807px;
+    opacity: 100;
+
+background: url(Kak-sdelat-vino-iz-krasnoJ-chërnoJ-ili-beloJ-smorodiny-v-domashnix-usloviyax_1531526761.jpg);
+border-radius: 28px;
+  }
+  h11{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 507px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+
+  }
+  .img6{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 703px;
+top: 807px;
+
+background: url(photo.jpg);
+border-radius: 28px;
+  }
+  h12{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 736px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+
+  }
+  .img7{
+    position: absolute;
+width: 174px;
+height: 148px;
+left: 928px;
+top: 807px;
+
+background: url(bc25ed83.jpg);
+border-radius: 28px;
+  }
+  h13{
+    position: absolute;
+width: 107px;
+height: 44px;
+left: 965px;
+top: 960px;
+
+font-family: 'Lustria';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+
+color: #000000;
+  }
+  body
+  {
+   background-image: url("https://myzihin.com/wp-content/uploads/2021/09/5639457-min.jpg");
+background-size: no-repeat;
+background-position: center;
+background-size: cover;
+height: 400px;
+width: 400px;
+   
+  ;
+    
+   
+  }
+.img0 {
+  position: absolute;
+width: 18px;
+height: 20px;
+left: 912px;
+top: 59px;
+
+  
+  
+}
